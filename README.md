@@ -8,6 +8,7 @@ A simple and secure password generator.
 ## Tech Stack
 
 **Client:** ReactJS, Chakra-UI
+<br>
 **Server:** Vite
 
 
