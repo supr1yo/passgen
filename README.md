@@ -7,7 +7,9 @@ A simple and secure password generator.
 ## Tech Stack
 
 **Library:** React
+<br>
 **CSS Framework:** tailwindcss
+<br>
 **UI Components:** Chakra UI
 
 
