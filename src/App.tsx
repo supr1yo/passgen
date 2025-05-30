@@ -95,18 +95,18 @@ const App = () => {
     generatePassword();
   }, [generatePassword]);
 
-  const strengthColor = (strength: string) => {
-    switch (strength) {
-      case "WEAK":
-        return "text-red";
-      case "MEDIUM":
-        return "text-yellow";
-      case "STRONG":
-        return "text-green";
-      default:
-        return "text-white";
-    }
-  };
+  // const strengthColor = (strength: string) => {
+  //   switch (strength) {
+  //     case "WEAK":
+  //       return "text-red";
+  //     case "MEDIUM":
+  //       return "text-yellow";
+  //     case "STRONG":
+  //       return "text-green";
+  //     default:
+  //       return "text-white";
+  //   }
+  // };
 
   return (
     // Container
